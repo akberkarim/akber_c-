@@ -1,0 +1,20 @@
+// Online C++ compiler to run C++ program online
+#include <iostream>
+using namespace std;
+
+
+int newfunction() {
+
+      cout<<"size of long int: "<<sizeof(long int) << " bytes"<<endl;
+      
+cout<<"size of short int: "<<sizeof(short int) << " bytes"<<endl;
+
+ cout << "Size of char: " << sizeof(char) << " byte" << endl;
+ 
+    cout << "Size of int: " << sizeof(int) << " bytes" << endl;
+    
+    cout << "Size of float: " << sizeof(float) << " bytes" << endl;
+    
+    cout << "Size of double: " << sizeof(double) << " bytes" << endl;
+    
+}
